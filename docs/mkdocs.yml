@@ -3,5 +3,7 @@ site_description: A build to test MkDocs
 
 nav:
   - Overview: "index.md"
+  - Page 2: "page2.md"
+  - Bitchass: "subpage.md"
 
 docs_dir: "."
