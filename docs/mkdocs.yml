@@ -2,8 +2,8 @@ site_name: readthedocs
 site_description: A build to test MkDocs
 
 nav:
+  - Home: "index.md"
   - Overview:
-    - Index: "index.md"
     - Page 2: "fuck/page2.md"
     - Bitchass: "fuck/subpage.md"
 
