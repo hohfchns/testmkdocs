@@ -3,9 +3,10 @@ site_description: A build to test MkDocs
 
 nav:
   - Overview:
-    - Index: "index.md"
-    - Page 2: "fuck/page2.md"
-    - Bitchass: "fuck/subpage.md"
+    - Index:
+      - Index: "index.md"
+      - Page 2: "fuck/page2.md"
+      - Bitchass: "fuck/subpage.md"
 
 docs_dir: "."
 theme: readthedocs
