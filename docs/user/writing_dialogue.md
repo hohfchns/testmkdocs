@@ -8,7 +8,7 @@ The DQD format uses the `.dqd` file extension.
 
 DQD is a simple text-based format, that goes something like this:
 
-```
+``` text
 statement | param1 | param2 | ...
 ```
 
